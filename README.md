@@ -8,12 +8,11 @@
   <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white">
 </p>
 
-
 ## Статистика
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murmelow&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murmelow&layout=compact&theme=radical" alt="Top Langs" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=murmelow&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=murmelow&layout=compact&theme=radical" alt="Top Langs" height="165">
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=murmelow&theme=radical" alt="GitHub Streak">
@@ -25,7 +24,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=murmelow&theme=react-dark" alt="Activity Graph">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/murmelow/murmelow/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murmelow/murmelow/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/murmelow/murmelow/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+  </picture>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=murmelow&color=blueviolet" alt="Profile Views">
