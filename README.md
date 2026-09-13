@@ -9,7 +9,7 @@
 </p>
 
 ## Статистика
- 
+
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=murmelow&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=murmelow&layout=compact&theme=radical" alt="Top Langs" height="165">
@@ -18,7 +18,7 @@
   <img src="https://streak-stats.demolab.com?user=murmelow&theme=radical" alt="GitHub Streak">
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy-vercel.vercel.app/?username=murmelow&theme=radical&no-frame=true" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=murmelow&theme=radical&no-frame=true" alt="GitHub Trophies">
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=murmelow&theme=react-dark" alt="Activity Graph">
@@ -32,3 +32,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=murmelow&color=blueviolet" alt="Profile Views">
 </p>
+
