@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/C++-2B2B2B?style=for-the-badge&logo=cplusplus&logoColor=E0E0E0">
   <img src="https://img.shields.io/badge/C-2B2B2B?style=for-the-badge&logo=c&logoColor=E0E0E0">
   <img src="https://img.shields.io/badge/Lua-2B2B2B?style=for-the-badge&logo=lua&logoColor=E0E0E0">
+  <img src="https://img.shields.io/badge/HTML-2B2B2B?style=for-the-badge&logo=html5&logoColor=E0E0E0">
+  <img src="https://img.shields.io/badge/CSS-2B2B2B?style=for-the-badge&logo=css3&logoColor=E0E0E0">
 </p>
 
 ## Статистика
