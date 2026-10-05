@@ -12,9 +12,6 @@
 
 ## Статистика
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=murmelow&hide_border=true&background=0D1117&border=0D1117&stroke=2B2B2B&ring=888888&fire=888888&currStreakNum=E0E0E0&sideNums=C9C9C9&currStreakLabel=C9C9C9&sideLabels=888888&dates=888888" alt="GitHub Streak">
-</p>
 <table align="center">
   <tr>
     <td width="50%">
@@ -25,6 +22,3 @@
     </td>
   </tr>
 </table>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=murmelow&style=for-the-badge&color=2B2B2B" alt="Profile Views">
-</p>
